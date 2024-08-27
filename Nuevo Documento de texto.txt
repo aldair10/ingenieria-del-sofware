@@ -1,0 +1,4 @@
+//comando ->Descripción de lo que hace
+
+ls -> lista los archivos de la carpeta
+code . -> llamado a visual studio
