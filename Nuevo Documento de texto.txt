@@ -2,3 +2,11 @@
 
 ls -> lista los archivos de la carpeta
 code . -> llamado a visual studio
+git config -- global username "user name"->se usa para vincular el usuario de GitHub
+git config --global user.email "correo"->se usa para vincular el email de GitHub
+git init se usa para inicializar el git
+git add. añade el espacio en nuve
+git commit -m "mensaje" -> se usa para hacer el commit del proyecto
+git branch -M main nos dirije a nuesta rama main
+git remote add origin (DIRECCION HTTP DEL PROYECTO)->ESTE COMANDO VINCULA NUESTRA CARPETA CON NUESTRO REPOSITORIO
+$ git push -u origin main -> sirve para subir los cambios del proyecto que hallamos realizado en nuestra carpeta local a nuestra nuve
